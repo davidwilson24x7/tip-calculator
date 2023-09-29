@@ -1,0 +1,11 @@
+#tip-rate-selector {
+    width: 90%;
+    height: 40px;
+    border: 0.5px solid rgb(187, 184, 184);
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.tip-rate-style {
+    padding-top: 20px;
+}   
